@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fawad Jawed</h1>
+<p align="center">
+  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawad-jawed&label=Profile%20views&color=0e75b6&style=flat" alt="fawad-jawed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawad-jawed" alt="fawad-jawed" /></a> </p>
