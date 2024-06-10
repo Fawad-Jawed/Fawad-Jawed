@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fawad Jawed</h1>
 <p align="center">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw18NQvIzojGX55w0EwVP844&ust=1718124829427000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOi4_fS_0YYDFQAAAAAdAAAAABAE" alt="Animated Image" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawad-jawed&label=Profile%20views&color=0e75b6&style=flat" alt="fawad-jawed" /> </p>
